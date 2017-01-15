@@ -12,8 +12,8 @@ g++ body.cpp -o body
 ```
 
 Then Run it as `./body`
-```
 
+```
 ## Other Implementations
 
 |Repositories|
@@ -23,4 +23,4 @@ Then Run it as `./body`
 | [Python](https://github.com/ShalbafZadeh/body) |
 | [Ruby](https://github.com/prp-e/body) |
 | [LESS](https://github.com/javid-izadfar/body) |
-
+```
